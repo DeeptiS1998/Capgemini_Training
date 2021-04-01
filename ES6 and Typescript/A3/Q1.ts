@@ -22,4 +22,3 @@ Promise.all([promise1(), promise2()]).then((results) => {
   console.log(`Results: ${results}`);
   console.log(`Total: ${total}`);
 });
-© 2021 GitHub, Inc.
