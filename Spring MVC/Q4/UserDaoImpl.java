@@ -4,7 +4,7 @@ import javax.sql.DataSource;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 
-import com.madhu.springMVC4.model.User;
+import com.cg.springMVC4.model.User;
 
 
 
