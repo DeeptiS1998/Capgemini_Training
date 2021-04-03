@@ -1,4 +1,4 @@
-package com.cg.springMVC4.model;
+package com.cg.springMVCQ4.model;
 
 public class User 
 {
