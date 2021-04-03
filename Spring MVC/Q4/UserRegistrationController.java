@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.madhu.springMVC4.dao.UserDao;
-import com.madhu.springMVC4.model.User;
+import com.cg.springMVC4.dao.UserDao;
+import com.cg.springMVC4.model.User;
 
 @Controller
 public class UserRegistrationController 
