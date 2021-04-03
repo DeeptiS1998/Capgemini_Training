@@ -1,6 +1,6 @@
 package com.cg.springMVCQ4.dao;
 
-import com.madhu.springMVC4.model.User;
+import com.cg.springMVC4.model.User;
 public interface UserDao 
 {
 	public int registerUser(User user);
