@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;  
 import org.springframework.web.bind.annotation.RequestMapping;  
 import org.springframework.web.bind.annotation.RequestMethod;   
-import com.teja.beans.Emp;  
-import com.teja.dao.EmpDao;  
+import com.cg.beans.Emp;  
+import com.cg.dao.EmpDao;  
 @Controller  
 public class EmpController {  
     @Autowired  
