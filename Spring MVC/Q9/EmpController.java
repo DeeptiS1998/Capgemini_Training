@@ -8,8 +8,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.madhu.springMVC9.dao.EmpDao;
-import com.madhu.springMVC9.model.Employee;
+import com.cg.springMVC9.dao.EmpDao;
+import com.cg.springMVC9.model.Employee;
 
 @Controller
 public class EmpController {
